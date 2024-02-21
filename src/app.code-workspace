@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "../../nodejs-express-sequelize-mysql/app"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
